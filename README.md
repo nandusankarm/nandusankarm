@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandu Sankar!</h1>
-<h3 align="center">A passionate Front-End / UI/UX developer from India!</h3>
+<h3 align="center">A passionate Mobile App Designer-Developer from India!</h3>
 
 I've always had a passion for the creative and artistic side of technology and creating applications that are pleasant to the eyes of the user.
 
